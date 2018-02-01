@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/yne717/gousb/usb"
+	"github.com/kylelemons/gousb/usb"
 )
 
 const MAX_SIZE = 64
